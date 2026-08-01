@@ -26,9 +26,9 @@ Data & Analytics: SQL | Data Cleaning | Data Visualization | Statistical Analysi
 
 📫 Reach Me At
 
-📧 Email: your-email@example.com
-💼 LinkedIn: [your LinkedIn URL]
-📷 Instagram: [your Instagram URL]
+📧 Email: sahilonl99@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/sahil-ray-124b60259/
+📷 portfolio: https://sahil-ray-portfoli0.netlify.app/
 
 ⭐️ Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on a data or dev project!
 -->
