@@ -1,6 +1,5 @@
 ## Hi there , I'm Sahil 👋
 
-<!--
 **About Me** 
 
 📊 I'm a Data Analyst who lives to turn messy, raw data into insights companies can actually act on. Whether it's cleaning up a sales dataset or building a dashboard, my goal is always the same — improve data quality and make it tell a story.
@@ -31,4 +30,3 @@ Data & Analytics: SQL | Data Cleaning | Data Visualization | Statistical Analysi
 📷 portfolio: https://sahil-ray-portfoli0.netlify.app/
 
 ⭐️ Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on a data or dev project!
--->
