@@ -13,8 +13,9 @@
 🌱 Currently sharpening my backend development skills while continuing to work on real-world data projects across sales, finance, and CRM domains.
 
 🛠️ Skills
+Data & Analytics: SQL | Data Cleaning | Data Visualization | Statistical Analysis | Data Annotation 
 
-Data & Analytics: SQL | Data Cleaning | Data Visualization | Statistical Analysis | Data Annotation Development: Python | JavaScript | Django | React | Backend Development Tools: Jupyter Notebook | Git/GitHub
+Development: Python | JavaScript | Django | React | Backend Development Tools: Jupyter Notebook | Git/GitHub
 
 🎓 Training & Certifications
 
