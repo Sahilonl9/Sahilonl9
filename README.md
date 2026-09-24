@@ -18,6 +18,8 @@ Data & Analytics: SQL | Data Cleaning | Data Visualization | Statistical Analysi
 
 Development: Python | JavaScript | Django | React | Backend Development Tools: Jupyter Notebook | Git/GitHub
 
+Codelingo: A teaching platform to learn code Using English-Language.
+
 🎓 Training & Certifications
 
 📈 Data Analyst Training — Paul Tech
@@ -32,5 +34,7 @@ Development: Python | JavaScript | Django | React | Backend Development Tools: J
 💼 LinkedIn: https://www.linkedin.com/in/sahil-ray-124b60259/
 
 📷 portfolio: https://sahil-ray-portfoli0.netlify.app/
+
+📷 Codelingo: https://github.com/Sahilonl9/Codelingo
 
 ⭐️ Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on a data or dev project!
